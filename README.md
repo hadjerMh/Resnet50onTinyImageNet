@@ -49,7 +49,7 @@ Overall, our study concludes that while the YOLOv5 and Resnet50 algorithms are e
 
 * Pytorch
 * Albumentations
-
+* Scikit-learn
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -65,7 +65,7 @@ Overall, our study concludes that while the YOLOv5 and Resnet50 algorithms are e
 
 * python 3
   ```sh
-  pip install -r requirements.txt
+  pip install torch torchvision albumentations scikit-learn
   ```
 
 <!-- USAGE EXAMPLES -->
