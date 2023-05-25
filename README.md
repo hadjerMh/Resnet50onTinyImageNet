@@ -47,8 +47,8 @@ Overall, our study concludes that while the YOLOv5 and Resnet50 algorithms are e
 ### Built With
 
 
-* Django
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* Pytorch
+* Albumentations
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
